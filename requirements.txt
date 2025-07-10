@@ -1,0 +1,23 @@
+certifi==2025.7.9
+charset-normalizer==3.4.2
+et_xmlfile==2.0.0
+fastexcel==0.14.0
+idna==3.10
+loguru==0.7.3
+markdown-it-py==3.0.0
+mdurl==0.1.2
+numpy==2.3.1
+openpyxl==3.1.5
+panda==0.3.1
+pandas==2.3.1
+polars==1.31.0
+pyarrow==20.0.0
+Pygments==2.19.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests==2.32.4
+rich==14.0.0
+six==1.17.0
+-e git+https://github.com/your-username/statementwise.git@86439980ff695cc0a3b8696794a75d9b3747f010#egg=statementwise
+tzdata==2025.2
+urllib3==2.5.0
